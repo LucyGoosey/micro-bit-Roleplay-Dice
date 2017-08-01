@@ -4,7 +4,7 @@ Turns your micro:bit into a roleplaying dice, from D2 up to D25!
 
 ## Installation
 
-Drag and drop the .hex file into your micro:bit, or play with the source in the .py file.
+Use the micro:bit python compiler (http://python.microbit.org/editor.html) to compile the .py into a .hex; drag and drop this into your micro:bit and go!
 
 ## Usage
 
